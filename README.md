@@ -24,7 +24,7 @@ Responsive stats preview card
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://hk273.github.io/SP-Card/)
 
 ## My process
 
