@@ -23,7 +23,7 @@ Responsive stats preview card
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/css-flexbox-and-grid-wctB-03EO)
 - [Live Site URL](https://hk273.github.io/SP-Card/)
 
 ## My process
