@@ -26,8 +26,6 @@ Responsive stats preview card
 - [Solution URL](https://www.frontendmentor.io/solutions/css-flexbox-and-grid-wctB-03EO)
 - [Live Site URL](https://hk273.github.io/SP-Card/)
 
-## My process
-
 
 ### Built with
 
@@ -119,12 +117,6 @@ Responsive stats preview card
     }
 }
 ```
-
-### Continued development
-
-- Mobile first design
-- Flexbox
-- Responsive design
 
 
 ### Useful resources
