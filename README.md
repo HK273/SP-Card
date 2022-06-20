@@ -129,9 +129,6 @@ Responsive stats preview card
 - [Reverse grid order at breakpoint](https://stackoverflow.com/questions/45383042/reverse-order-of-columns-in-css-grid-layout)  
 
 
-## Author
-
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
 
